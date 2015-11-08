@@ -1,8 +1,8 @@
 <?php
 	
 	$intCardCnt = 5;   //カード数
-	$intMemberCnt = 3; //参加者数
-	$arrSelect = array(1 => 1, 2 => 2, 3 => 5); //参加者 => カード番号
+	$intMemberCnt = 4; //参加者数
+	$arrSelect = array(1 => 2, 2 => 3, 3 => 5, 4 => 1); //参加者 => カード番号
 	$arrExcept = array();
 	$arrExpect = array();
 	
